@@ -5,7 +5,7 @@ This package provide Binance Academy's eslint config. It uses [Airbnb's eslint c
 ## Usage
 
 ```
-npx install-peerdeps --dev eslint-config-airbnb
+npx install-peerdeps --dev @binance-academy/eslint-config-airbnb
 ```
 
-Add `"extends": "eslint-config-bnb"` to your eslint config file.
+Add `"extends": "@binance-academy/eslint-config-bnb"` to your eslint config file.
