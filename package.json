@@ -1,31 +1,34 @@
 {
   "name": "@binance-academy/eslint-config-bnb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom set of ESLint rules for React and Nextjs based on Airbnb ESLint config",
   "main": "index.js",
   "repository": "https://github.com/binance-academy/eslint-config-bnb",
-  "author": "Brykou",
+  "author": "Binance Academy <academy@binance.com> (https://www.binance.vision/)",
+  "contributors": [
+    "Brykou"
+  ],
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "7.2.0",
+    "eslint": "7.5.0",
     "eslint-config-airbnb": "18.2.0",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.3.0",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "4.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.4",
+    "eslint-plugin-react-hooks": "4.0.8",
     "prettier": "^2.0.5"
   },
   "peerDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "7.2.0",
+    "eslint": "7.5.0",
     "eslint-config-airbnb": "18.2.0",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.3.0",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "4.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.4",
+    "eslint-plugin-react-hooks": "4.0.8",
     "prettier": "^2.0.5"
   }
 }
