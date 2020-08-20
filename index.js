@@ -11,7 +11,7 @@ module.exports = {
     es6: true,
     browser: true,
   },
-  extends: ["airbnb", "prettier"],
+  extends: ["airbnb", "airbnb/hooks", "prettier"],
   rules: {
     "react/forbid-prop-types": [1, { forbid: ["any"] }],
     "react/prop-types": ["error", { ignore: ["children"] }],
