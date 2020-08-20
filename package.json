@@ -1,6 +1,6 @@
 {
   "name": "@binance-academy/eslint-config-bnb",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Custom set of ESLint rules for React and Nextjs based on Airbnb ESLint config",
   "main": "index.js",
   "repository": "https://github.com/binance-academy/eslint-config-bnb",
